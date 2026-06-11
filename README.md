@@ -2,11 +2,11 @@
 
 # 💫 Hello, I'm Kalyani Nemade! 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=50&lines=Python+Backend+Developer;AI+Engineer;Microservices+Architect" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=50&lines=Python+Full+Stack+Developer;AI+Engineer;Microservices+Architect" alt="Typing SVG" /></a>
 
 <br/>
 
-**Building high-concurrency, event-driven backend systems that scale reliably.** <br>
+**Building complete end-to-end applications from database to UI.** <br>
 *BCA Graduate (2026) | AWS Certified Cloud Practitioner*
 
 <br/>
