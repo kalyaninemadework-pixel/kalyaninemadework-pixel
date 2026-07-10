@@ -54,11 +54,26 @@ I am a Data Engineer and Analytics Specialist focused on building scalable **ETL
 
 ### 🚀 Featured Projects
 
+### 🚀 Data Engineering & Analytics
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 📈 [**Financial Market Analytics Engine**](https://github.com/kalyaninemadework-pixel/advanced-finance-analytics) | Real-time data pipeline fetching global equity data, generating automated LLM-based summary reports. | Python, Pandas, Gemini LLM, Streamlit, API |
+| 📈 [**Financial Market Analytics Engine**](https://github.com/kalyaninemadework-pixel/advanced-finance-analytics) | Real-time data pipeline fetching global equity data, generating automated LLM-based summary reports. | Python, Pandas, Gemini LLM, Streamlit |
 | 🛒 [**Real-Time E-Commerce ETL Engine**](https://github.com/kalyaninemadework-pixel/ecommerce-analytics-dashboard) | End-to-end ETL pipeline processing 50,000+ transactional records into a relational DB with KPI dashboards. | Python, SQLite, SQLAlchemy, EDA, BI |
 | 🌐 [**Clickstream Analytics Platform**](https://github.com/kalyaninemadework-pixel/real-time-clickstream-analytics) | High-volume streaming pipeline simulating and aggregating user click events in real-time. | Kafka, Spark, FastAPI, AWS S3, Cloud |
+| ⚡ [**Real-Time Data Engine**](https://github.com/kalyaninemadework-pixel/realtime-data-engine) | Scalable backend engine built to ingest and process high-throughput data streams with minimal latency. | Python, AsyncIO, PostgreSQL, Redis |
+
+---
+
+### 🧠 Backend Architecture & AI Systems
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 [**Kalyra AI Assistant**](https://github.com/kalyaninemadework-pixel/kalyra-ai) | An intelligent virtual assistant integrating NLP for dynamic task automation and query resolution. | Python, NLP, LLMs, Vector DB |
+| 🕵️ [**AI Multi-Agent Research System**](https://github.com/kalyaninemadework-pixel/ai-multi-agent-research-system) | A collaborative multi-agent architecture where AI agents autonomously research and synthesize data. | Python, AutoGen/LangChain, APIs |
+| 🛍️ [**E-commerce Microservices**](https://github.com/kalyaninemadework-pixel/ecommerce-microservices) | A decoupled microservices backend architecture handling authentication, inventory, and orders. | FastAPI, Docker, Microservices, JWT |
+| 🛡️ [**Distributed Rate Limiter**](https://github.com/kalyaninemadework-pixel/distributed-rate-limiter) | A high-performance API rate limiter designed to prevent abuse and manage distributed traffic loads. | Go/Python, Redis, System Design |
+| 💻 [**Premium Portfolio Website**](https://github.com/kalyaninemadework-pixel/portfolio) | A highly responsive, modern portfolio website with glassmorphism UI to showcase technical projects. | HTML, CSS, JavaScript, Vercel |
 
 ---
 
